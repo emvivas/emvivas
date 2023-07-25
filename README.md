@@ -1,4 +1,5 @@
-Bienvenido -a a esta pequeña parte de mí.<br>
-Soy un desarrollador de software y un apasionado del arte, ciencia e historia.<br><br>
+Software developer who codes passionately.<br>
+Enthusiastic about engineering, history, and art.<br>
+I love the idea of collaborating in teams.<br><br>
 vivasrguez@outlook.com<br>
 www.linkedin.com/in/vivasrguez
