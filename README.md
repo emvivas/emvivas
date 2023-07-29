@@ -1,6 +1,16 @@
-# vivasrguez / emvivas
-# Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
-# I love the idea of collaborating in teams.<br><br>
+# vivasrguez | emvivas
+Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
+I love the idea of collaborating in teams.<br><br>
+<table>
+  <tr>
+    <td>
+      Institutional email: a01424732@tec.mx
+    </td>
+    <td>
+      First personal email: vivasrguez@outlook.com
+    </td>
+  </tr>
+</table>
 Institutional email: a01424732@tec.mx<br>
 First personal email: vivasrguez@outlook.com<br>
 Second personal email: vivasrguez@gmail.com<br>
