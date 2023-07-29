@@ -1,14 +1,14 @@
 # vivasrguez | emvivas
 Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
-I love the idea of collaborating in teams.<br><br>
+I love the idea of collaborating in teams.<br><br><br>
 <b>Emiliano Vivas' contact info.</b>
 <table>
   <tr>
     <td>
-      Institutional email:&nbsp;&nbsp;a01424732@tec.mx
+      Institutional email:&nbsp;&nbsp;<a href="mailto:a01424732@tec.mx">a01424732@tec.mx</a>
     </td>
     <td>
-      First personal email:&nbsp;&nbsp;vivasrguez@outlook.com
+      First personal email:&nbsp;&nbsp;<a href="mailto:vivasrguez@outlook.com">vivasrguez@outlook.com</a>
     </td>
   </tr>
   <tr>
@@ -16,7 +16,7 @@ I love the idea of collaborating in teams.<br><br>
       LinkedIn account:&nbsp;&nbsp;www.linkedin.com/in/vivasrguez
     </td>
     <td>
-      Second personal email:&nbsp;&nbsp;vivasrguez@gmail.com
+      Second personal email:&nbsp;&nbsp;<a href="mailto:vivasrguez@gmail.com">vivasrguez@gmail.com</a>
     </td>
   </tr>
   <tr>
