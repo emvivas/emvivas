@@ -23,7 +23,7 @@ I love the idea of collaborating in teams.<br><br>
       Instagram account:&nbsp;&nbsp;https://www.instagram.com/emvivas/
     </td>
     <td>
-      Simple resume:&nbsp;&nbsp;[CurriculumVitae.pdf](https://github.com/vivasrguez/vivasrguez/files/12206017/CurriculumVitae.pdf)
+      Simple resume:&nbsp;&nbsp;<a href="https://github.com/vivasrguez/vivasrguez/files/12206017/CurriculumVitae.pdf" target="_blank">CurriculumVitae.pdf</a>
     </td>
   </tr>
 </table>
