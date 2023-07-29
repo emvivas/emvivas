@@ -1,7 +1,7 @@
 # vivasrguez | emvivas
 Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
 I love the idea of collaborating in teams.<br><br>
-<table border="0" width="100%">
+<table style="border: 0px !important; width: 100% !important;">
   <tr>
     <td>
       Institutional email.<br>a01424732@tec.mx
