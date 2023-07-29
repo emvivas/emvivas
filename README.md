@@ -1,7 +1,6 @@
 # vivasrguez | emvivas
-Emiliano Vivas Rodríguez.
-Software Engineer in Artificial Intelligence and Data Science.
-<br>
+Emiliano Vivas Rodríguez.<br>
+Software Engineer in Artificial Intelligence and Data Science.<br><br>
 Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
 I love the idea of collaborating in teams.<br><br><br>
 <b>Emiliano Vivas' contact info.</b>
