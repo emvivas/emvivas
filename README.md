@@ -3,7 +3,7 @@ I love the idea of collaborating in teams.<br><br>
 vivasrguez@outlook.com<br>
 vivasrguez@gmail.com<br>
 a01424732@tec.mx<br>
-www.linkedin.com/in/vivasrguez<br><br><br>
+www.linkedin.com/in/vivasrguez<br>
 [CurriculumVitae.pdf](https://github.com/vivasrguez/vivasrguez/files/12206017/CurriculumVitae.pdf)
 <br><br><br>
 My name is Emiliano Vivas Rodríguez and I am a software developer with experience in the design, installation, testing, and maintenance of computational systems. I am currently studying Computational Technology Engineering at Tecnológico de Monterrey campus Mexico City. I studied programming technician degree at CECyTE Morelos campus Emiliano Zapata, I was recognized as the student with the highest academic achievement of my student class 2016 - 2019.
