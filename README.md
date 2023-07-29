@@ -1,13 +1,21 @@
 # vivasrguez | emvivas
 Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
 I love the idea of collaborating in teams.<br><br>
-<table>
+<table border="0" width="100%">
   <tr>
     <td>
-      Institutional email: a01424732@tec.mx
+      Institutional email.<br>a01424732@tec.mx
     </td>
     <td>
-      First personal email: vivasrguez@outlook.com
+      First personal email.<br>vivasrguez@outlook.com
+    </td>
+  </tr>
+  <tr>
+    <td>
+      LinkedIn account.<br>www.linkedin.com/in/vivasrguez
+    </td>
+    <td>
+      Second personal email.<br>vivasrguez@gmail.com
     </td>
   </tr>
 </table>
