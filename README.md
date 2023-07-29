@@ -1,15 +1,8 @@
 # vivasrguez | emvivas
 Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
 I love the idea of collaborating in teams.<br><br>
+<b>Emiliano Vivas' contact info.</b>
 <table>
-  <thhead>
-  <tr colspan="2">
-    <th>
-      Emiliano Vivas' contact information.
-    </th>
-  </tr>
-  </thhead>
-  <tbody>
   <tr>
     <td>
       Institutional email:&nbsp;&nbsp;a01424732@tec.mx
@@ -34,8 +27,7 @@ I love the idea of collaborating in teams.<br><br>
       Simple resume:&nbsp;&nbsp;<a href="https://github.com/vivasrguez/vivasrguez/files/12206017/CurriculumVitae.pdf" target="_blank">CurriculumVitae.pdf</a>
     </td>
   </tr>
-  </tbody>
-</table>
+</table><br>
 My name is Emiliano Vivas Rodríguez and I am a software developer with experience in the design, installation, testing, and maintenance of computational systems. I am currently studying Computational Technology Engineering at Tecnológico de Monterrey campus Mexico City. I studied programming technician degree at CECyTE Morelos campus Emiliano Zapata, I was recognized as the student with the highest academic achievement of my student class 2016 - 2019.
 
 I have professional experience in projects related to youth, science, and technology. From January 2021 to August of that year, I did a student internship at Givaudan De México S.A. de C.V., in this place I worked in the development and maintenance of software for the creation and modification of inventory reports for the production plant in Civac, Jiutepec, Morelos.
