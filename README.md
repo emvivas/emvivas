@@ -2,7 +2,7 @@
 <b>Emiliano Vivas Rodríguez.</b><br>
 <b><i>Software Engineer in Artificial Intelligence and Data Science.</i></b><br>
 <b><i>Programming Technician.</i></b><br><br>
-Software developer who codes passionately. Enthusiastic about engineering, history, and art.<br>
+Software developer who codes passionately. Enthusiastic about engineering, history, and arts.<br>
 I love the idea of collaborating in teams.<br><br><br>
 <i>Emiliano Vivas' contact info.</i>
 <table>
