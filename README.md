@@ -16,7 +16,7 @@ I love the idea of collaborating in teams.<br><br><br>
   </tr>
   <tr>
     <td>
-      LinkedIn account:&nbsp;&nbsp;https://www.linkedin.com/in/vivasrguez/
+      LinkedIn account:&nbsp;&nbsp;https://www.linkedin.com/in/emvivas/
     </td>
     <td>
       Second personal email:&nbsp;&nbsp;<a href="mailto:vivasrguez@gmail.com">vivasrguez@gmail.com</a>
@@ -27,7 +27,6 @@ I love the idea of collaborating in teams.<br><br><br>
       Instagram account:&nbsp;&nbsp;https://www.instagram.com/emvivas/
     </td>
     <td>
-      Simple resume:&nbsp;&nbsp;<a href="https://github.com/vivasrguez/vivasrguez/files/12206017/CurriculumVitae.pdf" target="_blank">CurriculumVitae.pdf</a>
     </td>
   </tr>
 </table>
